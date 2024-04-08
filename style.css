@@ -9,9 +9,12 @@ a{
 }
 a:link
 {
-    color:#FFFFFF;
+    color:red;
 }
 
+li{
+    color:black
+}
 
 #header{
     background-color: green;
