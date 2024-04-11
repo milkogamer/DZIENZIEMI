@@ -7,10 +7,7 @@ a{
     text-decoration: none;  
     
 }
-a:link
-{
-    color:red;
-}
+
 
 li{
     color:black
@@ -72,7 +69,7 @@ li{
 
 *{
     
-    color:#FFFFFF;
+    color:black;
 
 }
 
